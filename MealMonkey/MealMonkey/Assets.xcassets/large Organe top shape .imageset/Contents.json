@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "large Organe top shape .png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "large Organe top shape @2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "large Organe top shape @3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
